@@ -1,0 +1,10 @@
+¿Cómo restablezco mi contraseña? | Ve a la página de inicio de sesión y haz clic en "Olvidé mi contraseña". Ingresa tu correo electrónico y te enviaremos un enlace de restablecimiento en 5 minutos.
+¿Cuál es su horario de atención? | Estamos abiertos de lunes a viernes de 9 AM a 6 PM EST. El soporte durante el fin de semana está disponible solo por correo electrónico.
+¿Cómo puedo rastrear mi pedido? | Usa tu número de pedido en www.ejemplo.com/track o revisa el enlace de seguimiento en tu correo de confirmación.
+¿Ofrecen envíos internacionales? | Sí, enviamos a más de 50 países. Los costos y tiempos de envío varían según la ubicación.
+¿Cuál es su política de devoluciones? | Puedes devolver artículos dentro de los 30 días posteriores a la recepción para un reembolso completo, siempre que estén en su estado original.
+¿Cómo contacto a soporte? | Puedes enviarnos un correo a soporte@ejemplo.com o llamarnos al 1-800-555-0199 entre las 9 AM y las 6 PM EST.
+¿Puedo cambiar mi pedido después de realizarlo? | Puedes modificar tu pedido dentro de 1 hora después de realizarlo. Después de eso, se procesa y no se puede cambiar.
+¿Tienen una tienda física? | No, somos un minorista exclusivamente en línea para mantener nuestros precios competitivos.
+¿Qué métodos de pago aceptan? | Aceptamos Visa, MasterCard, American Express, PayPal y Apple Pay.
+¿Cómo me doy de baja del boletín? | Haz clic en el enlace "Darse de baja" en la parte inferior de cualquiera de nuestros correos promocionales.
